@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">JustDeliver</string>
+    <string name="password">Password</string>
+    <string name="username_email">Username/Email</string>
+    <string name="use_profile">Use profile</string>
+    <string name="no_profile_create_here">No profile? create here</string>
+    <string name="your_full_name">Your full name</string>
+    <string name="edit">Edit</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="address">Address</string>
+    <string name="i_am_driver">I am driver</string>
+    <string name="i_am_sender">I am sender</string>
+    <string name="contact_number">Contact number</string>
+    <string name="error_name_field_empty">Please enter your name</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_password_field_empty">Please enter password</string>
+    <string name="error_confirm_password_empty">Please confirm your password</string>
+    <string name="error_password_not_match">Password doesn\'t match</string>
+    <string name="error_address_field_empty">Please enter your address</string>
+    <string name="error_phone_field_empty">Please enter your number</string>
+    <string name="something_went_wrong">Something went wrong, please try again later</string>
+    <string name="error_select_profile_pic">Please select profile picture</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_my_profile">Update my profile</string>
+    <string name="my_gigs">My gigs</string>
+    <string name="my_profile">My profile</string>
+    <string name="message_profile_edited">Profile edited successfully</string>
+    <string name="create_new_underline"><u>Create new</u></string>
+    <string name="you_don_t_have_any_gigs_yet">You don\'t have any gigs yet</string>
+    <string name="error_no_updates">Only changes will save</string>
+    <string name="refresh">Refresh</string>
+    <string name="delivery_date">Delivery date</string>
+    <string name="after_delivery">After delivery</string>
+    <string name="payment">Payment</string>
+    <string name="where_to_deliver">Where to deliver?</string>
+    <string name="whom_to_deliver">Whom to deliver?</string>
+    <string name="from_where_to_pickup">From where to pickup?</string>
+    <string name="who_give_item">Who give item ?</string>
+    <string name="small">small</string>
+    <string name="size">Size</string>
+    <string name="description">Description</string>
+    <string name="gig_name">Gig name</string>
+    <string name="create_a_gig">Create a gig</string>
+    <string name="error_give_a_name_to_gig">Please give a name to gig</string>
+    <string name="error_provide_desc_for_gig">Please provide some description for gig</string>
+    <string name="error_sender_name_empty">May be you forgot to add sender name</string>
+    <string name="error_sender_location_empty">You should provide pickup location</string>
+    <string name="error_deliver_name_empty">Provide receivers name</string>
+    <string name="error_deliver_location_empty">You should provide delivery location</string>
+    <string name="error_deliver_date_empty">Select date to deliver gig</string>
+    <string name="amount">Amount</string>
+    <string name="car">Car</string>
+    <string name="your_licence_number">Your licence number</string>
+    <string name="valid_date">Valid date</string>
+    <string name="vehical_number">Vehical number</string>
+    <string name="take_me_in">Take me in</string>
+    <string name="error_invalid_licence_number">Provide licence number</string>
+    <string name="error_invalid_vehicalTpy">Provide vehical type</string>
+    <string name="error_empty_valid_date">Please select date till your licence valid</string>
+    <string name="error_invalid_vehical_number">Provide valid vehical number</string>
+    <string name="msg_please_wait">Please wait</string>
+    <string name="all_gigs">All gigs</string>
+    <string name="label_settings">Settings</string>
+    <string name="title_activity_gig_normal">GigNormalActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="label_my_contacts">My contacts</string>
+    <string name="label_deliver">Deliver</string>
+    <string name="label_i_will">I will</string>
+    <string name="label_let_me_think">Let me think</string>
+    <string name="title_activity_selected_gig">SelectedGigActivity</string>
+    <string name="update_status">Update status</string>
+    <string name="error_you_can_not_update_now">Tell user to confirm pickup or deliver</string>
+    <string name="label_yes">yes</string>
+    <string name="label_no">no</string>
+    <string name="error_confirm_your_docs">Please confirm your documents to our office</string>
+    <string name="title_activity_created_gig">Created Gig</string>
+    <string name="error_no_one_has_selected">Your gig is not selected yet</string>
+    <string name="error_you_can_not_update_now_sender">You can not update status now</string>
+    <string name="in_progress_gig">In Progress</string>
+    <string name="action_show_in_map">Show in map</string>
+    <string name="action_call">Call</string>
+    <string name="next">Next</string>
+    <string name="label_about_us">About us</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="skip">Skip</string>
+    <string name="sign_in">Sigin in</string>
+    <string name="from_gallery">From gallery</string>
+    <string name="choose">Choose</string>
+    <string name="camera">Camera</string>
+    <string name="select_file">Select file</string>
+    <string name="cancel">Cancel</string>
+    <string name="msg_please_wait_for_image_upload">Please wait while uploading image</string>
+    <string name="label_select_location">Select location</string>
+</resources>

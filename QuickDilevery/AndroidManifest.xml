@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="lj.quickdilevery.activity"
+    android:versionCode="1"
+    android:versionName="test" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <uses-library android:name="com.google.android.maps" />
+
+        <activity
+            android:name=".Login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CreateProfile"
+            android:label="@string/title_activity_create_profile" />
+        <activity
+            android:name=".Gig"
+            android:label="@string/title_activity_gig" >
+        </activity>
+        <activity
+            android:name=".CreateGig"
+            android:label="@string/title_activity_create_gig" >
+        </activity>
+        <activity
+            android:name=".CreateDProfile"
+            android:label="@string/title_activity_create_dprofile" >
+        </activity>
+        <activity
+            android:name=".ViewGig"
+            android:label="@string/title_activity_view_gig" >
+        </activity>
+        <activity
+            android:name=".OneGigShow"
+            android:label="@string/title_activity_one_gig_show" >
+        </activity>
+        <activity
+            android:name=".MapsActivity"
+            android:label="@string/title_activity_maps" >
+        </activity>
+        <activity
+            android:name=".DriverGig"
+            android:label="@string/title_activity_driver_gig" >
+        </activity>
+        <activity
+            android:name=".AllGig"
+            android:label="@string/title_activity_all_gig" >
+        </activity>
+        <activity
+            android:name=".OneGigDriver"
+            android:label="@string/title_activity_one_gig_driver" >
+        </activity>
+    </application>
+
+</manifest>

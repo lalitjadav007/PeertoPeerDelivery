@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "670511637183",
+    "firebase_url": "https://just-deliver.firebaseio.com",
+    "project_id": "just-deliver",
+    "storage_bucket": "just-deliver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670511637183:android:3eaf5c81afc04d52",
+        "android_client_info": {
+          "package_name": "lj.justdeliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670511637183-l445j1bc9m396n97c141mb0p8i8svm10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lj.justdeliver",
+            "certificate_hash": "8DDD5ACAAB0822357FF2D6649F1AB3D582339E52"
+          }
+        },
+        {
+          "client_id": "670511637183-6bdc1k7kaa0ko5dmv0rqltl9i6qj2v3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY8rCLVhWs9Sm3kd5rEK0vxdyfTsOc6FU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670511637183-6bdc1k7kaa0ko5dmv0rqltl9i6qj2v3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

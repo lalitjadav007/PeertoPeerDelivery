@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuickDeliveryy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="use_profile">Use Profile</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_create_profile">Create Profile</string>
+    <string name="title_activity_gig">Gig</string>
+    <string name="title_activity_create_gig">CreateGig</string>
+    <string name="title_activity_create_dprofile">CreateDProfile</string>
+
+    <string-array name="areas">
+        <item>C.G.Road</item>
+        <item>S.G.Road</item>
+    </string-array>
+
+    <string name="title_activity_view_gig">MyGig</string>
+    <string name="title_activity_one_gig_show">OneGigShow</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map_key">AIzaSyA57UjFUwTfT226hT9y6alIOJ3skZU1PfM</string>
+    <string name="title_activity_driver_gig">DriverGig</string>
+    <string name="title_activity_all_gig">AllGig</string>
+    <string name="title_activity_one_gig_driver">OneGigDriver</string>
+
+</resources>
